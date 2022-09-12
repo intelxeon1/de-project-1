@@ -67,6 +67,10 @@ datamart_query.sql
 
 
 
+2. Доработка представлений
+
+orders_view.sql
+
 	
 	
 	
